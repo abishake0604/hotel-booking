@@ -1,0 +1,6 @@
+{
+  "name": "AuraStays - Hotel Booking & Reservations",
+  "description": "Discover and book handpicked boutique hotels, seaside resorts, and alpine retreats worldwide with instant confirmation and flexible cancellation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
